@@ -14,7 +14,7 @@ In this repository, you'll find:
 
 ## The First Book: "C Programming for the Absolute Beginner"
 
-![C Programming for the Absolute Beginner](51KTahtZ55L._AC_UF1000,1000_QL80_)
+<span style="color:green">C Programming for the Absolute Beginner</span>
 
 - **Author**: Vine
 
